@@ -11,3 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - scikit-learn
+  - seaborn
+  - itertools
+  
