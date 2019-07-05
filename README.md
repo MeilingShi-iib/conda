@@ -7,6 +7,6 @@ A Binder-compatible repo with an `environment.yml` file.
 Access this Binder at the following URL:
 https://mybinder.org/v2/gh/MeilingShi-iib/conda/master
 
-Datasets used here are from Kaggle  
+This is a student tutoring project. Datasets and part of the sourcecode used here are from Kaggle  
 
 
